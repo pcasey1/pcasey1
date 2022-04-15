@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pcasey1
-- 👀 I’m interested in ...learning everything
+- 👀 I’m interested in ...learning everything, working on learning Python presently
 - 🌱 I’m currently learning ... about life and CNC machines, 3d printing, Design and CAM 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@gmail
